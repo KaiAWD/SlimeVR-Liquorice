@@ -3,6 +3,7 @@
 # SlimeVR-Liquorice
 A work in progress case and strap design for the SlimeVR stacked smol slime tracker with a case that slides together.
 
+![](https://github.com/KaiAWD/SlimeVR-Liquorice/blob/62f331bcf9c3195a4d9ba9d4474f2a1d4d309a6b/Images/Assembly.gif)
 ![](https://github.com/KaiAWD/SlimeVR-Liquorice/blob/2f60e6afccbac998eecae2485dbe4d71aa9d8f1e/Images/Trackers%20Overview.png)
 
 The parts are designed to be printed with a 0.2mm layer height, a 0.4mm nozzle and can be printed without supports.
