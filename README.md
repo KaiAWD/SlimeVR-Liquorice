@@ -1,11 +1,11 @@
 <a href="https://github.com/KaiAWD/SlimeVR-Liquorice/">Liquorice Trackers</a> © 2026 by <a href="https://github.com/KaiAWD">KaiAWD</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
 # SlimeVR-Liquorice
-A work in progress case and strap design for the SlimeVR stacked smol slime tracker.
-
-The parts are designed to be printed with a 0.2mm layer height, a 0.4mm nozzle and can be printed without supports.
+A work in progress case and strap design for the SlimeVR stacked smol slime tracker with a case that slides together.
 
 ![](https://github.com/KaiAWD/SlimeVR-Liquorice/blob/2f60e6afccbac998eecae2485dbe4d71aa9d8f1e/Images/Trackers%20Overview.png)
+
+The parts are designed to be printed with a 0.2mm layer height, a 0.4mm nozzle and can be printed without supports.
 
 ### Parts Used
 | Part | Description | Link |
@@ -28,7 +28,6 @@ Depending on which MCU you use, the USB-C port might be offset.
 | ![](https://github.com/KaiAWD/SlimeVR-Liquorice/blob/a588e9061ec065d524376615465f3bbea0327a61/Images/Case%20Default%20USB.png) ![](https://github.com/KaiAWD/SlimeVR-Liquorice/blob/a588e9061ec065d524376615465f3bbea0327a61/Images/MCU%20Default%20USB.png) | ![](https://github.com/KaiAWD/SlimeVR-Liquorice/blob/a588e9061ec065d524376615465f3bbea0327a61/Images/Case%20Offset%20USB.png) ![](https://github.com/KaiAWD/SlimeVR-Liquorice/blob/a588e9061ec065d524376615465f3bbea0327a61/Images/MCU%20Offset%20USB.png) |
 
 ## To-do list
-
 * Charging dock
 * Snap-fit lids
 * Additional parts for the straps
