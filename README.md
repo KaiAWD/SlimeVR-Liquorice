@@ -34,6 +34,7 @@ Depending on which MCU you use, the USB-C port might be offset.
 * Additional parts for the straps
 * Double shoulder strap chest strap
 * Strap configurations
+* 40mm & 50mm strap variants
 * Printing/Assembly guide
 
 ## Credits
