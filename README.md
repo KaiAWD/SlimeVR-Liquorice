@@ -11,8 +11,8 @@ The parts are designed to be printed with a 0.2mm layer height, a 0.4mm nozzle a
 ### Parts Used
 | Part | Description | Link |
 | ---- | ----------- | ---- |
-| Elastic Band | EB312-Black-30mm, 5Meters | ![AliExpress Link](https://www.aliexpress.com/item/1005003917576160.html) |
-| ProMicro nRF52840 | NRF52840 variant (Without Antenna/IPEX) | ![AliExpress Link](https://aliexpress.com/item/1005007266112508.html) |
+| Elastic Band | EB312-Black-30mm, 5Meters | [AliExpress Link](https://www.aliexpress.com/item/1005003917576160.html) |
+| ProMicro nRF52840 | NRF52840 variant (Without Antenna/IPEX) | [AliExpress Link](https://aliexpress.com/item/1005007266112508.html) |
 | 401230 LiPo Battery | 3.7V 130mAh; Max 4mm High, 12mm Wide, 30mm Long | |
 
 ### Versions
